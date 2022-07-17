@@ -50,7 +50,7 @@ Personal Routes with High-Dimensional Costs and Dynamic Approximation Guarantees
 
 * T. Blaesius, T. Friedrich, A. Krohmer, and S. Laue  
 Efficient Embedding of Scale-Free Graphs in the Hyperbolic Plane, ESA 2016.  
-.  
+\
 Recipient of the Best Paper Award.
 
 * S. Funke, S. Laue, and S. Storandt  
@@ -90,7 +90,9 @@ A Comparison of Models of Word Meaning in Context, NAACL 2012.
 * J. Giesen, M. Jaggi, and S. Laue  
 Approximating Parameterized Convex Optimization Problems
 ACM Transactions on Algorithms, 9(1):10, 2012.    
+\
 _An extended abstract appeared as:_    
+\
 Approximating Parameterized Convex Optimization Problems, ESA 2010.
 
 * S. Laue  
@@ -99,13 +101,17 @@ Geometric Set Cover and Hitting Sets for Polytopes in R^3, STACS 2008.
 * S. Funke , S. Laue, R. Naujoks , and Z. Lotker  
 Power assignment problems in wireless communication: Covering points by disks, reaching few receivers quickly, and energy-efficient travelling salesman tours.
 Ad Hoc Networks 9(6): 1028-1035, 2011.  
+\
 _An extended abstract appeared as:_  
+\
 Power Assignment Problems in Wireless Communication: Covering Points by Disks, Reaching few Receivers Quickly, and Energy-efficient Travelling Salesman Tours, DCOSS 2008.
 
 * S. Laue and D. Matijevic  
 Approximating k-hop Minimum Spanning Trees in Euclidean Metrics
 Information Processing Letters, 107/3-4:96-101, 2008.  
+\
 _An extended abstract appeared as:_  
+\
 Approximating k-hop Minimum Spanning Trees in Euclidean Metrics, CCCG 2007.
 
 * S. Funke , S. Laue, and R. Naujoks  
@@ -117,7 +123,9 @@ Bounded-Hop Energy-Efficient Broadcast in Low-Dimensional Metrics Via Coresets, 
 * F. Eisenbrand and S. Laue  
 A linear algorithm for integer programming in the plane.
 Mathematical Programming, 102(2):249-259, 2005.    
+\
 _An extended abstract appeared as:_  
+\
 A faster algorithm for two variable integer programming, ISAAC 2003.
 
 [back](./)
