@@ -8,7 +8,7 @@ layout: default
 
 Our group is interested in algorithms for machine learning, especially optimization algorithms. Optimization is at the heart of machine learning. Most machine learning problems entail solving some kind of optimization problem. We design efficient algorithms, prove correctness, implement them (usually in Python), and provide them to the public.
 
-### Projects
+## Projects
 
 * [MatrixCalculus.org](https://www.MatrixCalculus.org) &ensp; A tool for computing derivatives of matrix and tensor expressions.
 * [geno-project.org](https://www.geno-project.org) &ensp; Python tool for solving optimization problems easily.
