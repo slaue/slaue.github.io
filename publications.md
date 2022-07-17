@@ -1,7 +1,6 @@
 ---
 layout: default
-title: Another page
-description: This is just another page
+description: Publications
 ---
 
 ## Welcome to another page
