@@ -2,42 +2,34 @@
 layout: default
 ---
 
-What you see is what you get.
+## Research Interests
 
-## Algorithms For Machine Learning Group
+Our group is interested in algorithms for machine learning, especially optimization algorithms. Optimization is at the heart of machine learning. Most machine learning problems entail solving some kind of optimization problem. We design efficient algorithms, prove correctness, implement them (usually in Python), and provide them to the public.
 
-You can use the [editor on GitHub](https://github.com/slaue/slaue.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### Projects
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* [MatrixCalculus.org](https://www.MatrixCalculus.org) &ensp; A tool for computing derivatives of matrix and tensor expressions.
+* [geno-project.org](https://www.geno-project.org) &ensp; Python tool for solving optimization problems easily.
 
-### Markdown
+## Group Members
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* Sören Laue (head of the group)
+* Matthias Mitterreiter (PhD student)
 
-```markdown
-Syntax highlighted code block
+## Publications
 
-# Header 1
-## Header 2
-### Header 3
+[A full list can be found here.](./publications.html)
 
-- Bulleted
-- List
+* S. Laue, M. Blacher and J. Giesen. Optimization for Classical Machine Learning Problems on the GPU, **AAAI** 2022.
+* S. Laue, M. Mitterreiter, J. Giesen. A Simple and Efficient Tensor Calculus, **AAAI** 2020.
+* S. Laue, M. Mitterreiter, J. Giesen. GENO - GENeric Optimization for Classical Machine Learning, **NeurIPS** 2019.
+* J. Giesen, S. Laue, A. Loehne, and Ch. Schneider. Using Benson's Algorithm for Regularization Parameter Tracking, **AAAI** 2019.
+* S. Laue, M. Mitterreiter, and J. Giesen. Computing Higher Order Derivatives for Matrix and Tensor Expressions, **NeurIPS** 2018.
+* K. Blechschmidt, J. Giesen, and S. Laue. Tracking of Approximate Solutions of Parameterized Optimization Problems over Multi-Dimensional (Hyper-)Parameter Domains, **ICML** 2015.
+* J. Giesen, S. Laue, and P. Wieschollek. Robust and Efficient Kernel Hyperparameter Paths with Guarantees, **ICML** 2014.
+* J. Giesen, S. Laue, J. Mueller, and S. Swiercy. Approximating Concavely Parameterized Optimization Problems, **NIPS** 2012.
+* S. Laue. A Hybrid Algorithm for Convex Semidefinite Optimization, **ICML** 2012.
 
-1. Numbered
-2. List
+## Teaching
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/slaue/slaue.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+* Optimization for Machine Learning (WS22/23)
