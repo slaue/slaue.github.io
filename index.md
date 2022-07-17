@@ -47,3 +47,7 @@ Our group is interested in algorithms for machine learning, especially optimizat
 ## Teaching
 
 * Optimization for Machine Learning (WS22/23)
+
+## Contact
+
+laue@cs.uni-kl.de
