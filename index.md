@@ -12,7 +12,7 @@ Our group is interested in algorithms for machine learning, especially optimizat
 ## Projects
 
 * [MatrixCalculus.org](https://www.MatrixCalculus.org){:target="_blank"} &ensp; A tool for computing derivatives of matrix and tensor expressions.
-* [geno-project.org](https://www.geno-project.org){:target="_blank"} &ensp; Python tool for solving optimization problems easily.
+* [geno-project.org](https://www.geno-project.org){:target="_blank"} &ensp; A Python tool for solving optimization problems easily.
 
 ## Group Members
 
