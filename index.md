@@ -20,6 +20,7 @@ Our group is interested in algorithms for machine learning, especially optimizat
 ## Group Members
 
 * Sören Laue (head of the group)
+
 * Matthias Mitterreiter (PhD student)
 
 ## Publications
