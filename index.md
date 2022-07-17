@@ -15,7 +15,7 @@ Our group is interested in algorithms for machine learning, especially optimizat
 
 * [geno-project.org](https://www.geno-project.org){:target="_blank"} &ensp; A modeling language tool for solving constrained optimization problems easily. Automatically generates highly efficient Python code.
 
-* [genosolver](https://www.github.com/slaue/genosolver){:target="_blank"} &ensp; A highly efficient solver for solving constrained optimization problems fully written in Python with GPU support. No dependencies on external libraries (except NumPy).
+* [genosolver](https://www.github.com/slaue/genosolver){:target="_blank"} &ensp; A highly efficient solver for solving constrained optimization problems fully written in Python with optional GPU support. No dependencies on external libraries (except NumPy).
 
 ## Group Members
 
