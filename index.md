@@ -1,8 +1,9 @@
 ---
 layout: default
+title: Algorithms for Machine Learning Group
 ---
 
-.
+  
 
 ## Research Interests
 
