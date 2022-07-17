@@ -50,4 +50,4 @@ Our group is interested in algorithms for machine learning, especially optimizat
 
 ## Contact
 
-laue@cs.uni-kl.de
+[laue@cs.uni-kl.de](mailto:laue@cs.uni-kl.de)
