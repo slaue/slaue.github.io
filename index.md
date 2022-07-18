@@ -23,6 +23,10 @@ Our group is interested in algorithms for machine learning, especially optimizat
 
 * Matthias Mitterreiter (PhD student)
 
+* Antonio Jovanović (PhD student)
+
+* Silvana Marmeggi (PhD student)
+
 ## Publications
 
 [A full list can be found here.](./publications.html)
