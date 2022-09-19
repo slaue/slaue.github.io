@@ -31,11 +31,13 @@ Our group is interested in algorithms for machine learning, especially optimizat
 
 [A full list can be found here.](./publications.html)
 
-* S. Laue, M. Blacher and J. Giesen. Optimization for Classical Machine Learning Problems on the GPU, **AAAI** 2022.
+* J. Giesen, J. Klaus, S. Laue, N. Merk, and K. Wiedom. Convexity Certificates from Hessians, **NeurIPS** 2022.
 
-* S. Laue, M. Mitterreiter, J. Giesen. A Simple and Efficient Tensor Calculus, **AAAI** 2020.
+* S. Laue, M. Blacher, and J. Giesen. Optimization for Classical Machine Learning Problems on the GPU, **AAAI** 2022.
 
-* S. Laue, M. Mitterreiter, J. Giesen. GENO - GENeric Optimization for Classical Machine Learning, **NeurIPS** 2019.
+* S. Laue, M. Mitterreiter, and J. Giesen. A Simple and Efficient Tensor Calculus, **AAAI** 2020.
+
+* S. Laue, M. Mitterreiter, and J. Giesen. GENO - GENeric Optimization for Classical Machine Learning, **NeurIPS** 2019.
 
 * J. Giesen, S. Laue, A. Loehne, and Ch. Schneider. Using Benson's Algorithm for Regularization Parameter Tracking, **AAAI** 2019.
 
