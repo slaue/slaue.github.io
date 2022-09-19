@@ -6,6 +6,9 @@ description: Publications
 
 ## Publications
 
+* J. Giesen, J. Klaus, S. Laue, N. Merk, and K. Wiedom  
+  Convexity Certificates from Hessians, NeurIPS 2022.
+
 * S. Laue, M. Blacher and J. Giesen   
   Optimization for Classical Machine Learning Problems on the GPU, AAAI 2022.
 
