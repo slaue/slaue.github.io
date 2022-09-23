@@ -48,13 +48,14 @@ Convexity Certificates from Hessians, NeurIPS 2022.
 * S. Laue, M. Mitterreiter, and J. Giesen  
 [Computing Higher Order Derivatives for Matrix and Tensor Expressions](https://proceedings.neurips.cc/paper/2018/hash/0a1bf96b7165e962e90cb14648c9462d-Abstract.html), NIPS 2018.
 
+* T. Bläsius, T. Friedrich, A. Krohmer, and S. Laue
+[Efficient Embedding of Scale-Free Graphs in the Hyperbolic Plane](http://doi.ieeecomputersociety.org/10.1109/TNET.2018.2810186). IEEE/ACM Trans. Netw. 26(2): 920-933, 2018.  
+_An extended abstract appeared as:_    
+[Efficient Embedding of Scale-Free Graphs in the Hyperbolic Plane](https://doi.org/10.4230/LIPIcs.ESA.2016.16), ESA 2016.  
+_Recipient of the Best Paper Award._
+
 * S. Funke, S. Laue, and S. Storandt  
 [Personal Routes with High-Dimensional Costs and Dynamic Approximation Guarantees](https://doi.org/10.4230/LIPIcs.SEA.2017.18), SEA 2017.
-
-* T. Blaesius, T. Friedrich, A. Krohmer, and S. Laue  
-[Efficient Embedding of Scale-Free Graphs in the Hyperbolic Plane](https://doi.org/10.4230/LIPIcs.ESA.2016.16), ESA 2016.  
-\
-Recipient of the Best Paper Award.
 
 * S. Funke, S. Laue, and S. Storandt  
 Deducing Individual Driving Preferences for User-Aware Navigation, SIGSPATIAL 2016.
