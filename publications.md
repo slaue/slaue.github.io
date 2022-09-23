@@ -64,13 +64,13 @@ _Recipient of the Best Paper Award._
 [Generating Massive Complex Networks with Hyperbolic Geometry Faster in Practice](https://doi.org/10.1109/HPEC.2016.7761644), HPEC 2016.
 
 * K. Blechschmidt, J. Giesen, and S. Laue  
-[Tracking of Approximate Solutions of Parameterized Optimization Problems over Multi-Dimensional (Hyper-)Parameter Domains(http://proceedings.mlr.press/v37/blechschmidt15.html), ICML 2015.
+[Tracking of Approximate Solutions of Parameterized Optimization Problems over Multi-Dimensional (Hyper-)Parameter Domains](http://proceedings.mlr.press/v37/blechschmidt15.html), ICML 2015.
 
 * S. Jelic, S. Laue, D. Matijevic, and P. Wijerama  
 [A Fast Parallel Implementation of a PTAS for Fractional Packing and Covering Linear Programs](https://doi.org/10.1007/s10766-015-0352-y).
 Intl. Journal of Parallel Programming, 43(5):840-875, 2015.
 
-* J. Giesen, S. Laue, J.K. Müller
+* J. Giesen, S. Laue, J.K. Müller  
 [Reconstructing a Sparse Solution from a Compressed Support Vector Machine](https://doi.org/10.1007/978-3-319-32859-1_26). MACIS 2015: 305-319
 
 * J. Giesen, S. Laue, and P. Wieschollek  
