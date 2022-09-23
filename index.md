@@ -59,7 +59,7 @@ Our group is interested in algorithms for machine learning, especially optimizat
 
 [laue@cs.uni-kl.de](mailto:laue@cs.uni-kl.de)
 
-[TU Kaiserslautern](https://www.uni-kl.de/en){:target="_blank"}
-[Dept. of Computer Science](https://www.informatik.uni-kl.de/en){:target="_blank"}
-Building 48, Room 655
-Kaiserslautern, Germany
+[TU Kaiserslautern](https://www.uni-kl.de/en){:target="_blank"}  
+[Dept. of Computer Science](https://www.informatik.uni-kl.de/en){:target="_blank"}  
+Building 48, Room 655  
+Kaiserslautern, Germany  
