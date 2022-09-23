@@ -65,7 +65,6 @@ Convexity Certificates from Hessians, **NeurIPS** 2022.
 * Optimization for Machine Learning (WS22/23)
 
 # Open Positions
-
 ### PhD Students / PostDocs
 
 We are currently looking for PhD students and PostDocs in the area of optimization, machine learning, and deep learning. If you are highly motivated, have a solid background in ML, CS, math, and Python or C++, you are welcome to apply by sending your  
