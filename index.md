@@ -66,6 +66,8 @@ Convexity Certificates from Hessians, **NeurIPS** 2022.
 
 # Open Positions
 
+### PhD Students / PostDocs
+
 We are currently looking for PhD students and PostDocs in the area of optimization, machine learning, and deep learning. If you are highly motivated, have a solid background in ML, CS, math, and Python or C++, you are welcome to apply by sending your  
 * CV
 * Master's or PhD thesis
@@ -73,6 +75,10 @@ We are currently looking for PhD students and PostDocs in the area of optimizati
 * short (1/2 page) research statement
 
 to [laue@cs.uni-kl.de](mailto:laue@cs.uni-kl.de) using the subject 'Application for PhD/PostDoc position'.
+
+### TAs
+
+If you want to be a TA for a course we offer or want to join our group as a student researcher (HiWi), write a mail using the subject 'Application for HiWi'.
 
 # Contact
 
