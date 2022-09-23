@@ -31,25 +31,35 @@ Our group is interested in algorithms for machine learning, especially optimizat
 
 [A full list can be found here.](./publications.html)
 
-* J. Giesen, J. Klaus, S. Laue, N. Merk, and K. Wiedom. Convexity Certificates from Hessians, **NeurIPS** 2022.  
+* J. Giesen, J. Klaus, S. Laue, N. Merk, and K. Wiedom.  
+Convexity Certificates from Hessians, **NeurIPS** 2022.  
 
-* S. Laue, M. Blacher, and J. Giesen. [Optimization for Classical Machine Learning Problems on the GPU](https://arxiv.org/abs/2203.16340), **AAAI** 2022.  
+* S. Laue, M. Blacher, and J. Giesen.  
+[Optimization for Classical Machine Learning Problems on the GPU](https://arxiv.org/abs/2203.16340), **AAAI** 2022.  
 
-* S. Laue, M. Mitterreiter, and J. Giesen. [A Simple and Efficient Tensor Calculus](https://ojs.aaai.org/index.php/AAAI/article/view/5881/5737), **AAAI** 2020.  
+* S. Laue, M. Mitterreiter, and J. Giesen.  
+[A Simple and Efficient Tensor Calculus](https://ojs.aaai.org/index.php/AAAI/article/view/5881/5737), **AAAI** 2020.  
 
-* S. Laue, M. Mitterreiter, and J. Giesen. [GENO - GENeric Optimization for Classical Machine Learning](https://proceedings.neurips.cc/paper/2019/hash/84438b7aae55a0638073ef798e50b4ef-Abstract.html), **NeurIPS** 2019.  
+* S. Laue, M. Mitterreiter, and J. Giesen.  
+[GENO - GENeric Optimization for Classical Machine Learning](https://proceedings.neurips.cc/paper/2019/hash/84438b7aae55a0638073ef798e50b4ef-Abstract.html), **NeurIPS** 2019.  
 
-* J. Giesen, S. Laue, A. Loehne, and Ch. Schneider. [Using Benson's Algorithm for Regularization Parameter Tracking](https://ojs.aaai.org//index.php/AAAI/article/view/4253), **AAAI** 2019.  
+* J. Giesen, S. Laue, A. Loehne, and Ch. Schneider.  
+[Using Benson's Algorithm for Regularization Parameter Tracking](https://ojs.aaai.org//index.php/AAAI/article/view/4253), **AAAI** 2019.  
 
-* S. Laue, M. Mitterreiter, and J. Giesen. [Computing Higher Order Derivatives for Matrix and Tensor Expressions](https://proceedings.neurips.cc/paper/2018/hash/0a1bf96b7165e962e90cb14648c9462d-Abstract.html), **NeurIPS** 2018.  
+* S. Laue, M. Mitterreiter, and J. Giesen.  
+[Computing Higher Order Derivatives for Matrix and Tensor Expressions](https://proceedings.neurips.cc/paper/2018/hash/0a1bf96b7165e962e90cb14648c9462d-Abstract.html), **NeurIPS** 2018.  
 
-* K. Blechschmidt, J. Giesen, and S. Laue. [Tracking of Approximate Solutions of Parameterized Optimization Problems over Multi-Dimensional (Hyper-)Parameter Domains](http://proceedings.mlr.press/v37/blechschmidt15.html), **ICML** 2015.  
+* K. Blechschmidt, J. Giesen, and S. Laue.  
+[Tracking of Approximate Solutions of Parameterized Optimization Problems over Multi-Dimensional (Hyper-)Parameter Domains](http://proceedings.mlr.press/v37/blechschmidt15.html), **ICML** 2015.  
 
-* J. Giesen, S. Laue, and P. Wieschollek. [Robust and Efficient Kernel Hyperparameter Paths with Guarantees](http://proceedings.mlr.press/v32/giesen14.html), **ICML** 2014.  
+* J. Giesen, S. Laue, and P. Wieschollek.  
+[Robust and Efficient Kernel Hyperparameter Paths with Guarantees](http://proceedings.mlr.press/v32/giesen14.html), **ICML** 2014.  
 
-* J. Giesen, S. Laue, J. Mueller, and S. Swiercy. [Approximating Concavely Parameterized Optimization Problems](https://proceedings.neurips.cc/paper/2012/hash/bdb106a0560c4e46ccc488ef010af787-Abstract.html), **NIPS** 2012.  
+* J. Giesen, S. Laue, J. Mueller, and S. Swiercy.  
+[Approximating Concavely Parameterized Optimization Problems](https://proceedings.neurips.cc/paper/2012/hash/bdb106a0560c4e46ccc488ef010af787-Abstract.html), **NIPS** 2012.  
 
-* S. Laue. [A Hybrid Algorithm for Convex Semidefinite Optimization](https://arxiv.org/abs/1206.4608), **ICML** 2012.  
+* S. Laue.  
+[A Hybrid Algorithm for Convex Semidefinite Optimization](https://arxiv.org/abs/1206.4608), **ICML** 2012.  
 
 ## Teaching
 
