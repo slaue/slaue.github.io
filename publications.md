@@ -58,46 +58,47 @@ _Recipient of the Best Paper Award._
 [Personal Routes with High-Dimensional Costs and Dynamic Approximation Guarantees](https://doi.org/10.4230/LIPIcs.SEA.2017.18), SEA 2017.
 
 * S. Funke, S. Laue, and S. Storandt  
-Deducing Individual Driving Preferences for User-Aware Navigation, SIGSPATIAL 2016.
+[Deducing Individual Driving Preferences for User-Aware Navigation](https://doi.org/10.1145/2996913.2997004), SIGSPATIAL 2016.
 
 * M. von Loos, M. Oezdayi, S. Laue, and H. Meyerhenke  
-Generating Massive Complex Networks with Hyperbolic Geometry Faster in Practice, HPEC 2016.
+[Generating Massive Complex Networks with Hyperbolic Geometry Faster in Practice](https://doi.org/10.1109/HPEC.2016.7761644), HPEC 2016.
 
 * K. Blechschmidt, J. Giesen, and S. Laue  
-Tracking of Approximate Solutions of Parameterized Optimization Problems over Multi-Dimensional (Hyper-)Parameter Domains, ICML 2015.
+[Tracking of Approximate Solutions of Parameterized Optimization Problems over Multi-Dimensional (Hyper-)Parameter Domains(http://proceedings.mlr.press/v37/blechschmidt15.html), ICML 2015.
 
 * S. Jelic, S. Laue, D. Matijevic, and P. Wijerama  
-A Fast Parallel Implementation of a PTAS for Fractional Packing and Covering Linear Programs.
+[A Fast Parallel Implementation of a PTAS for Fractional Packing and Covering Linear Programs](https://doi.org/10.1007/s10766-015-0352-y).
 Intl. Journal of Parallel Programming, 43(5):840-875, 2015.
 
+* J. Giesen, S. Laue, J.K. Müller
+[Reconstructing a Sparse Solution from a Compressed Support Vector Machine](https://doi.org/10.1007/978-3-319-32859-1_26). MACIS 2015: 305-319
+
 * J. Giesen, S. Laue, and P. Wieschollek  
-Robust and Efficient Kernel Hyperparameter Paths with Guarantees, ICML 2014.
+[Robust and Efficient Kernel Hyperparameter Paths with Guarantees](http://proceedings.mlr.press/v32/giesen14.html), ICML 2014.
 
 * J. Giesen, L. Kühne, and S. Laue  
-Sketching the Support of a Probability Measure, AISTATS 2014.
+[Sketching the Support of a Probability Measure](http://proceedings.mlr.press/v33/giesen14.html), AISTATS 2014.
 
 * S. Laue  
-A Hybrid Algorithm for Convex Semidefinite Optimization, ICML 2012. 
+[A Hybrid Algorithm for Convex Semidefinite Optimization](http://icml.cc/2012/papers/109.pdf), ICML 2012. 
 
 * J. Giesen, S. Laue, J. Mueller, and S. Swiercy  
-Approximating Concavely Parameterized Optimization Problems, NIPS 2012. 
+[Approximating Concavely Parameterized Optimization Problems](https://proceedings.neurips.cc/paper/2012/hash/bdb106a0560c4e46ccc488ef010af787-Abstract.html), NIPS 2012. 
 
 * J. Giesen, M. Jaggi, and S. Laue  
-Optimizing over the Growing Spectrahedron, ESA 2012.
+[Optimizing over the Growing Spectrahedron](https://doi.org/10.1007/978-3-642-33090-2_44), ESA 2012.
 
 * J. Giesen, M. Jaggi, and S. Laue  
-Regularization Paths with Guarantees for Convex Semidefinite Optimization, AISTATS 2012.
+[Regularization Paths with Guarantees for Convex Semidefinite Optimization](http://proceedings.mlr.press/v22/giesen12.html), AISTATS 2012.
 
 * G. Dinu, S. Thater, and S. Laue  
-A Comparison of Models of Word Meaning in Context, NAACL 2012.
+[A Comparison of Models of Word Meaning in Context](https://aclanthology.org/N12-1076/), NAACL 2012.
 
 * J. Giesen, M. Jaggi, and S. Laue  
-Approximating Parameterized Convex Optimization Problems
+[Approximating Parameterized Convex Optimization Problems](https://doi.org/10.1145/2390176.2390186)
 ACM Transactions on Algorithms, 9(1):10, 2012.    
-\
 _An extended abstract appeared as:_    
-\
-Approximating Parameterized Convex Optimization Problems, ESA 2010.
+[Approximating Parameterized Convex Optimization Problems](https://doi.org/10.1007/978-3-642-15775-2_45), ESA 2010.
 
 * S. Laue  
 Geometric Set Cover and Hitting Sets for Polytopes in R^3, STACS 2008.
