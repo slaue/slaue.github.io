@@ -5,11 +5,11 @@ title: Algorithms for Machine Learning Group
 
   
 
-## Research Interests
+# Research Interests
 
 Our group is interested in algorithms for machine learning, especially optimization algorithms. Optimization is at the heart of machine learning. Most machine learning problems entail solving some kind of optimization problem. This holds true for classical as well as for deep learning approaches. We design efficient algorithms, prove correctness, implement them (usually in Python), and provide them to the public.
 
-## Projects
+# Projects
 
 * [MatrixCalculus.org](https://www.MatrixCalculus.org){:target="_blank"} &ensp; A tool for computing derivatives of matrix and tensor expressions.
 
@@ -17,7 +17,7 @@ Our group is interested in algorithms for machine learning, especially optimizat
 
 * [genosolver](https://www.github.com/slaue/genosolver){:target="_blank"} &ensp; A highly efficient solver for solving constrained optimization problems fully written in Python with optional GPU support. No dependencies on external libraries (except NumPy).
 
-## Group Members
+# Group Members
 
 * Sören Laue (head of the group)
 
@@ -27,7 +27,7 @@ Our group is interested in algorithms for machine learning, especially optimizat
 
 * Silvana Marmeggi (PhD student)
 
-## Publications
+# Publications
 
 [A full list can be found here.](./publications.html)
 
@@ -61,11 +61,11 @@ Convexity Certificates from Hessians, **NeurIPS** 2022.
 * S. Laue.  
 [A Hybrid Algorithm for Convex Semidefinite Optimization](https://arxiv.org/abs/1206.4608), **ICML** 2012.  
 
-## Teaching
+# Teaching
 
 * Optimization for Machine Learning (WS22/23)
 
-## Open Positions
+# Open Positions
 
 We are currently looking for PhD candidates and PostDocs in the area of optimization, machine learning, and deep learning. If you are highly motivated, have a solid background in ML, CS, math, and Python or C++, you are welcome to apply by sending your  
 * CV
@@ -75,7 +75,7 @@ We are currently looking for PhD candidates and PostDocs in the area of optimiza
 
 to [laue@cs.uni-kl.de](mailto:laue@cs.uni-kl.de) using the subject 'Application for PhD/PostDoc position'.
 
-## Contact
+# Contact
 
 [laue@cs.uni-kl.de](mailto:laue@cs.uni-kl.de)
 
