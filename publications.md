@@ -22,7 +22,12 @@ Convexity Certificates from Hessians, NeurIPS 2022.
 [GENO - GENeric Optimization for Classical Machine Learning Made Fast and Easy](https://ojs.aaai.org/index.php/AAAI/article/view/7097), AAAI 2020.
 
 * S. Laue, M. Mitterreiter, and J. Giesen  
+[A Simple and Efficient Tensor Calculus for Machine Learning](https://doi.org/10.3233/FI-2020-1984). Fundam. Informaticae 177(2): 157-179, 2020.  
+_An extended abstract appeared as:_  
 [A Simple and Efficient Tensor Calculus](https://ojs.aaai.org/index.php/AAAI/article/view/5881), AAAI 2020.
+
+* J. Giesen, S. Laue, M. Mitterreiter  
+[Optimization frameworks for machine learning: Examples and case study](https://doi.org/10.1515/itit-2019-0031). it Inf. Technol. 62(3-4): 169-180, 2020.
 
 * S. Laue, M. Mitterreiter, and J. Giesen  
 [GENO - GENeric Optimization for Classical Machine Learning](https://proceedings.neurips.cc/paper/2019/hash/84438b7aae55a0638073ef798e50b4ef-Abstract.html), NeurIPS 2019.
