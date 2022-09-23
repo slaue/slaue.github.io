@@ -75,7 +75,7 @@ We are currently looking for PhD students and PostDocs in the area of optimizati
 
 to [laue@cs.uni-kl.de](mailto:laue@cs.uni-kl.de) using the subject 'Application for PhD/PostDoc position'.
 
-### TAs
+### TAs / HiWis
 
 If you want to be a TA for a course we offer or want to join our group as a student researcher (HiWi), write a mail using the subject 'Application for HiWi'.
 
