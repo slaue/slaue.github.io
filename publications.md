@@ -48,7 +48,7 @@ Convexity Certificates from Hessians, NeurIPS 2022.
 * S. Laue, M. Mitterreiter, and J. Giesen  
 [Computing Higher Order Derivatives for Matrix and Tensor Expressions](https://proceedings.neurips.cc/paper/2018/hash/0a1bf96b7165e962e90cb14648c9462d-Abstract.html), NIPS 2018.
 
-* T. Bläsius, T. Friedrich, A. Krohmer, and S. Laue
+* T. Bläsius, T. Friedrich, A. Krohmer, and S. Laue  
 [Efficient Embedding of Scale-Free Graphs in the Hyperbolic Plane](http://doi.ieeecomputersociety.org/10.1109/TNET.2018.2810186). IEEE/ACM Trans. Netw. 26(2): 920-933, 2018.  
 _An extended abstract appeared as:_    
 [Efficient Embedding of Scale-Free Graphs in the Hyperbolic Plane](https://doi.org/10.4230/LIPIcs.ESA.2016.16), ESA 2016.  
