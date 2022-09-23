@@ -4,7 +4,7 @@ title: Algorithms for Machine Learning Group
 description: Publications
 ---
 
-## Publications
+# Publications
 
 * J. Giesen, J. Klaus, S. Laue, N. Merk, and K. Wiedom  
 Convexity Certificates from Hessians, NeurIPS 2022.
