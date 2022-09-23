@@ -7,52 +7,52 @@ description: Publications
 ## Publications
 
 * J. Giesen, J. Klaus, S. Laue, N. Merk, and K. Wiedom  
-  Convexity Certificates from Hessians, NeurIPS 2022.
+Convexity Certificates from Hessians, NeurIPS 2022.
 
 * S. Laue, M. Blacher and J. Giesen   
-  Optimization for Classical Machine Learning Problems on the GPU, AAAI 2022.
+[Optimization for Classical Machine Learning Problems on the GPU](https://arxiv.org/abs/2203.16340), AAAI 2022.
 
 * M. Blacher, J. Giesen, S. Laue, J. Klaus, and V. Leis  
-  Machine Learning, Linear Algebra, and More: Is SQL All You Need?, CIDR 2022.
+[Machine Learning, Linear Algebra, and More: Is SQL All You Need?](https://www.cidrdb.org/cidr2022/papers/p17-blacher.pdf), CIDR 2022.
 
 * J. Giesen, P. Kahlmeyer, S. Laue, M. Mitterreiter, F. Nussbaum, C. Staudt and S. Zarriess  
-  Method of Moments for Topic Models with Mixed Discrete and Continuous Features., IJCAI 2021.
+[Method of Moments for Topic Models with Mixed Discrete and Continuous Features](https://www.ijcai.org/proceedings/2021/333), IJCAI 2021.
   
-* S. Laue, M. Mitterreiter, J. Giesen  
-GENO - GENeric Optimization for Classical Machine Learning Made Fast and Easy, AAAI 2020.
-
-* S. Laue, M. Mitterreiter, J. Giesen  
-A Simple and Efficient Tensor Calculus, AAAI 2020.
-
-* S. Laue, M. Mitterreiter, J. Giesen  
-GENO - GENeric Optimization for Classical Machine Learning, NeurIPS 2019.
-
-* S. Laue, and J. Giesen  
-Combining ADMM and the Augmented Lagrangian Method for Efficiently Handling Many Constraints, IJCAI 2019.
-
-* S. Laue, M. Mitterreiter, J. Giesen  
-GENO - GENeric Optimization for Classical Machine Learning, arXiv 2019.
-
-* J. Giesen, J. Klaus, S. Laue, and F. Schreck  
-Visualization Support for Developing a Matrix Calculus Algorithm: A Case Study, EuroVis 2019.
-
-* V. H. Do, M. Blazevic, P. Monteagudo, L. Borozan, K. Elbassioni, S. Laue, F. Rojas Ringeling, D. Matijevic, and S.Canzar  
-Dynamic Pseudo-time Warping of Complex Single-Cell Trajectories, RECOMB 2019.
-
-* J. Giesen, S. Laue, A. Loehne, and Ch. Schneider  
-Using Benson's Algorithm for Regularization Parameter Tracking, AAAI 2019.
-
-* S. Laue  
-On the Equivalence of Forward Mode Automatic Differentiation and Symbolic Differentiation, arXiv 2019.
+* S. Laue, M. Mitterreiter, and J. Giesen  
+[GENO - GENeric Optimization for Classical Machine Learning Made Fast and Easy](https://ojs.aaai.org/index.php/AAAI/article/view/7097), AAAI 2020.
 
 * S. Laue, M. Mitterreiter, and J. Giesen  
-Computing Higher Order Derivatives for Matrix and Tensor Expressions, NIPS 2018.
+[A Simple and Efficient Tensor Calculus](https://ojs.aaai.org/index.php/AAAI/article/view/5881), AAAI 2020.
+
+* S. Laue, M. Mitterreiter, and J. Giesen  
+[GENO - GENeric Optimization for Classical Machine Learning](https://proceedings.neurips.cc/paper/2019/hash/84438b7aae55a0638073ef798e50b4ef-Abstract.html), NeurIPS 2019.
+
+* S. Laue, and J. Giesen  
+[Combining ADMM and the Augmented Lagrangian Method for Efficiently Handling Many Constraints](https://doi.org/10.24963/ijcai.2019/629), IJCAI 2019.
+
+* S. Laue, M. Mitterreiter, J. Giesen  
+[GENO - GENeric Optimization for Classical Machine Learning](http://arxiv.org/abs/1905.13587), arXiv 2019.
+
+* J. Giesen, J. Klaus, S. Laue, and F. Schreck  
+[Visualization Support for Developing a Matrix Calculus Algorithm: A Case Study](https://doi.org/10.1111/cgf.13694), EuroVis 2019.
+
+* V. H. Do, M. Blazevic, P. Monteagudo, L. Borozan, K. Elbassioni, S. Laue, F. Rojas Ringeling, D. Matijevic, and S.Canzar  
+[Dynamic Pseudo-time Warping of Complex Single-Cell Trajectories](https://link.springer.com/content/pdf/bbm%3A978-3-030-17083-7%2F1.pdf), RECOMB 2019.
+
+* J. Giesen, S. Laue, A. Loehne, and Ch. Schneider  
+[Using Benson's Algorithm for Regularization Parameter Tracking](https://doi.org/10.1609/aaai.v33i01.33013689), AAAI 2019.
+
+* S. Laue  
+[On the Equivalence of Forward Mode Automatic Differentiation and Symbolic Differentiation](http://arxiv.org/abs/1904.02990), arXiv 2019.
+
+* S. Laue, M. Mitterreiter, and J. Giesen  
+[Computing Higher Order Derivatives for Matrix and Tensor Expressions](https://proceedings.neurips.cc/paper/2018/hash/0a1bf96b7165e962e90cb14648c9462d-Abstract.html), NIPS 2018.
 
 * S. Funke, S. Laue, and S. Storandt  
-Personal Routes with High-Dimensional Costs and Dynamic Approximation Guarantees, SEA 2017.
+[Personal Routes with High-Dimensional Costs and Dynamic Approximation Guarantees](https://doi.org/10.4230/LIPIcs.SEA.2017.18), SEA 2017.
 
 * T. Blaesius, T. Friedrich, A. Krohmer, and S. Laue  
-Efficient Embedding of Scale-Free Graphs in the Hyperbolic Plane, ESA 2016.  
+[Efficient Embedding of Scale-Free Graphs in the Hyperbolic Plane](https://doi.org/10.4230/LIPIcs.ESA.2016.16), ESA 2016.  
 \
 Recipient of the Best Paper Award.
 
