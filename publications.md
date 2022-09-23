@@ -101,36 +101,30 @@ _An extended abstract appeared as:_
 [Approximating Parameterized Convex Optimization Problems](https://doi.org/10.1007/978-3-642-15775-2_45), ESA 2010.
 
 * S. Laue  
-Geometric Set Cover and Hitting Sets for Polytopes in R^3, STACS 2008.
+[Geometric Set Cover and Hitting Sets for Polytopes in R^3](https://doi.org/10.4230/LIPIcs.STACS.2008.1367), STACS 2008.
 
 * S. Funke , S. Laue, R. Naujoks , and Z. Lotker  
-Power assignment problems in wireless communication: Covering points by disks, reaching few receivers quickly, and energy-efficient travelling salesman tours.
+[Power assignment problems in wireless communication: Covering points by disks, reaching few receivers quickly, and energy-efficient travelling salesman tours](https://doi.org/10.1016/j.adhoc.2010.08.016).
 Ad Hoc Networks 9(6): 1028-1035, 2011.  
-\
 _An extended abstract appeared as:_  
-\
-Power Assignment Problems in Wireless Communication: Covering Points by Disks, Reaching few Receivers Quickly, and Energy-efficient Travelling Salesman Tours, DCOSS 2008.
+[Power Assignment Problems in Wireless Communication: Covering Points by Disks, Reaching few Receivers Quickly, and Energy-efficient Travelling Salesman Tours](https://doi.org/10.1007/978-3-540-69170-9_19), DCOSS 2008.
 
 * S. Laue and D. Matijevic  
-Approximating k-hop Minimum Spanning Trees in Euclidean Metrics
+[Approximating k-hop Minimum Spanning Trees in Euclidean Metrics](https://doi.org/10.1016/j.ipl.2008.01.004)
 Information Processing Letters, 107/3-4:96-101, 2008.  
-\
 _An extended abstract appeared as:_  
-\
-Approximating k-hop Minimum Spanning Trees in Euclidean Metrics, CCCG 2007.
+[Approximating k-hop Minimum Spanning Trees in Euclidean Metrics](http://cccg.ca/proceedings/2007/05a4.pdf), CCCG 2007.
 
 * S. Funke , S. Laue, and R. Naujoks  
-Minimum-Energy Broadcast with Few Senders, DCOSS 2007.
+[Minimum-Energy Broadcast with Few Senders](https://doi.org/10.1007/978-3-540-73090-3_27), DCOSS 2007.
 
 * S. Funke and S. Laue  
-Bounded-Hop Energy-Efficient Broadcast in Low-Dimensional Metrics Via Coresets, STACS 2007.
+[Bounded-Hop Energy-Efficient Broadcast in Low-Dimensional Metrics Via Coresets](https://doi.org/10.1007/978-3-540-70918-3_24), STACS 2007.
 
 * F. Eisenbrand and S. Laue  
-A linear algorithm for integer programming in the plane.
+[A linear algorithm for integer programming in the plane](https://doi.org/10.1007/s10107-004-0520-0).
 Mathematical Programming, 102(2):249-259, 2005.    
-\
 _An extended abstract appeared as:_  
-\
-A faster algorithm for two variable integer programming, ISAAC 2003.
+[A faster algorithm for two variable integer programming](https://doi.org/10.1007/978-3-540-24587-2_31), ISAAC 2003.
 
 [back](./)
