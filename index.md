@@ -27,6 +27,8 @@ Our group is interested in algorithms for machine learning, especially optimizat
 
 * Silvana Marmeggi (PhD student)
 
+* Ceylan Demir (PhD student)
+
 # Publications
 ### [A full list can be found here.](./publications.html)
 
