@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Algorithms for Machine Learning Group
+title: Algorithms for Machine Learning Group @ TUK
 ---
 
   
