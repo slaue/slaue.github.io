@@ -85,8 +85,9 @@ If you want to be a TA for a course we offer or want to join our group as a stud
 
 [laue@cs.uni-kl.de](mailto:laue@cs.uni-kl.de)
 
+Phone: +49 631 205 2059
+
 [TU Kaiserslautern](https://www.uni-kl.de/en){:target="_blank"}  
 [Dept. of Computer Science](https://www.informatik.uni-kl.de/en){:target="_blank"}  
 Building 48, Room 655  
 Kaiserslautern, Germany
-+49 631 205 2509
