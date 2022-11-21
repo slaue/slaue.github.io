@@ -33,7 +33,7 @@ Our group is interested in algorithms for machine learning, especially optimizat
 ### [A full list can be found here.](./publications.html)
 
 * J. Giesen, J. Klaus, S. Laue, N. Merk, and K. Wiedom.  
-Convexity Certificates from Hessians, **NeurIPS** 2022.  
+[Convexity Certificates from Hessians](https://arxiv.org/abs/2210.10430), **NeurIPS** 2022.  
 
 * S. Laue, M. Blacher, and J. Giesen.  
 [Optimization for Classical Machine Learning Problems on the GPU](https://arxiv.org/abs/2203.16340), **AAAI** 2022.  
