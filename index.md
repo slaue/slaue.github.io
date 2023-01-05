@@ -32,6 +32,9 @@ Our group is interested in algorithms for machine learning, especially optimizat
 # Publications
 ### [A full list can be found here.](./publications.html)
 
+* M. Mitterreiter, M. Koch, J. Giesen, S. Laue.    
+[Why Capsule Neural Networks Do Not Scale: Challenging the Dynamic Parse-Tree Assumption](https://arxiv.org/abs/2301.01583), **AAAI** 2023.
+
 * J. Giesen, J. Klaus, S. Laue, N. Merk, and K. Wiedom.  
 [Convexity Certificates from Hessians](https://arxiv.org/abs/2210.10430), **NeurIPS** 2022.  
 
