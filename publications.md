@@ -6,6 +6,9 @@ description: Publications
 
 # Publications
 
+* M. Mitterreiter, M. Koch, J. Giesen, S. Laue.    
+[Why Capsule Neural Networks Do Not Scale: Challenging the Dynamic Parse-Tree Assumption](https://arxiv.org/abs/2301.01583), AAAI 2023.
+
 * J. Giesen, J. Klaus, S. Laue, N. Merk, and K. Wiedom  
 [Convexity Certificates from Hessians](https://arxiv.org/abs/2210.10430), NeurIPS 2022.
 
@@ -14,6 +17,9 @@ description: Publications
 
 * M. Blacher, J. Giesen, S. Laue, J. Klaus, and V. Leis  
 [Machine Learning, Linear Algebra, and More: Is SQL All You Need?](https://www.cidrdb.org/cidr2022/papers/p17-blacher.pdf), CIDR 2022.
+
+* J. Giesen, P. Kahlmeyer, S. Laue, M. Mitterreiter, F. Nussbaum, C. Staudt  
+[Mixed membership Gaussians](https://www.sciencedirect.com/science/article/pii/S0047259X22001324), Journal of Multivariate Analysis, 2023.
 
 * J. Giesen, P. Kahlmeyer, S. Laue, M. Mitterreiter, F. Nussbaum, C. Staudt and S. Zarriess  
 [Method of Moments for Topic Models with Mixed Discrete and Continuous Features](https://www.ijcai.org/proceedings/2021/333), IJCAI 2021.
