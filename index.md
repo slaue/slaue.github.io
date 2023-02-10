@@ -69,6 +69,7 @@ Our group is interested in algorithms for machine learning, especially optimizat
 
 * Optimization for Machine Learning (WS22/23)
 
+<!---
 # Open Positions
 ### PhD Students / PostDocs
 
@@ -83,7 +84,7 @@ to [laue@cs.uni-kl.de](mailto:laue@cs.uni-kl.de) using the subject 'Application 
 ### TAs / HiWis
 
 If you want to be a TA for a course we offer or want to join our group as a student researcher (HiWi), write a mail using the subject 'Application for HiWi'.
-
+--->
 # Contact
 
 [laue@cs.uni-kl.de](mailto:laue@cs.uni-kl.de)
