@@ -6,6 +6,9 @@ description: Publications
 
 # Publications
 
+* M. Blacher, J. Giesen, J. Klaus, Ch. Staudt, S. Laue, V. Leis.  
+Efficient and Portable Einstein Summation in SQL, SIGMOD 2023.  
+
 * M. Mitterreiter, M. Koch, J. Giesen, S. Laue.    
 [Why Capsule Neural Networks Do Not Scale: Challenging the Dynamic Parse-Tree Assumption](https://arxiv.org/abs/2301.01583), AAAI 2023.
 
