@@ -9,6 +9,8 @@ title: Machine Learning Group @ UHH
 
 Our group is interested in algorithms for machine learning, especially optimization algorithms. Optimization is at the heart of machine learning. Most machine learning problems entail solving some kind of optimization problem. This holds true for classical as well as for deep learning approaches. We design efficient algorithms, prove correctness, implement them (usually in Python), and provide them to the public.
 
+We also have a wider interest in topics that connect optimization and related subjects, like algorithmical fairness, explainable artificial intelligence, and their contribution to digital responsibility. 
+
 # Projects
 
 * [MatrixCalculus.org](https://www.MatrixCalculus.org){:target="_blank"} &ensp; A tool for computing derivatives of matrix and tensor expressions.
