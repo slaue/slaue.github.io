@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Algorithms for Machine Learning Group @ TUK
+title: Machine Learning Group @ UHH
 ---
 
   
@@ -21,13 +21,18 @@ Our group is interested in algorithms for machine learning, especially optimizat
 
 * Sören Laue (head of the group)
 
+* Anne Awizen (administration) 
+
+* Michaela Regneri (Senior Researcher)
+
 * Matthias Mitterreiter (PhD student)
 
-* Antonio Jovanović (PhD student)
+* Tomislav Prusina (PhD student)
 
-* Silvana Marmeggi (PhD student)
+* Alhassan Abdelhalim (student assistent) 
 
-* Latofat Bobojonova (Hiwi)
+* Merle Mosch (student assistent) 
+
 
 # Publications
 ### [A full list can be found here.](./publications.html)
@@ -91,11 +96,10 @@ If you want to be a TA for a course we offer or want to join our group as a stud
 --->
 # Contact
 
-[laue@cs.uni-kl.de](mailto:laue@cs.uni-kl.de)
+[soeren.laue@uni-hamburg.de](mailto:soeren.laue@uni-hamburg.de)
 
-Phone: +49 631 205 2509
 
-[TU Kaiserslautern](https://www.uni-kl.de/en){:target="_blank"}  
-[Dept. of Computer Science](https://www.informatik.uni-kl.de/en){:target="_blank"}  
-Building 48, Room 655  
-Kaiserslautern, Germany
+[Universität Hamburg](https://www.uni-hamburg.de/en.html){:target="_blank"}  
+[Dept. of Computer Science](https://www.inf.uni-hamburg.de/en.html){:target="_blank"}  
+Vogt-Kölln-Str. 30, G-233  
+22527 Hamburg, Germany
